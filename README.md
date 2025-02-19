@@ -65,6 +65,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## kode sudah saya samakan dengan modul namun saat saya run di postman tidak dapat berjalan dengan baik.
-
-## postman menyertakan eror code 500
+## kode sudah saya samakan dengan modul namun saat saya run di postman tidak dapat berjalan dengan baik. postman menyertakan eror code 500
